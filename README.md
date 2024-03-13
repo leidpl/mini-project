@@ -1,1 +1,1 @@
-# practice-code
+# mini-project
